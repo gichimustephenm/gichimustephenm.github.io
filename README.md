@@ -111,5 +111,5 @@ To ensure customer care operations surpass standard service level agreements (SL
   <span style="color: #A0AEC0; margin: 0 15px;">|</span>
   <span>✉️ Email: <a href="mailto:mwangistephen.g@gmail.com" style="color: #FFFFFF; text-decoration: underline; font-weight: 600;">mwangistephen.g@gmail.com</a></span>
   <span style="color: #A0AEC0; margin: 0 15px;">|</span>
-  <span>💼 LinkedIn: <a href="https://linkedin.com" target="_blank" style="color: #FFFFFF; text-decoration: underline; font-weight: 600;">Official Profile</a></span>
+  <span>💼 LinkedIn: <a href="www.linkedin.com/in/stephengichimu" target="_blank" style="color: #FFFFFF; text-decoration: underline; font-weight: 600;">Official Profile</a></span>
 </div>
