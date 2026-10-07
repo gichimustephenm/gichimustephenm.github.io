@@ -12,13 +12,12 @@ High-performing customer support professional with nearly 5 years of experience 
 
 ## 🛠️ Tech Stack & Core Competencies
 
-| Category | Tools & Skills |
-| :--- | :--- |
-| **Helpdesk & CRM** | Zendesk, Jira Service Desk, Beehive CRM, Confluence, Infobip |
-| **Communication** | Live Chat, Phone Support, Email Ticketing, Slack, MS Teams |
-| **Productivity** | Advanced MS Excel, Word, Outlook, Google Workspace |
-| **Specialized** | Lean Six Sigma Yellow Belt, QuickBooks Financial Administration |
-| **Languages** | English (EF SET C2 Proficient - Native/Fluent equivalent) |
+![Zendesk](https://shields.io)
+![Jira](https://shields.io)
+![Confluence](https://shields.io)
+![Excel](https://shields.io)
+![Six Sigma](https://shields.io)
+
 
 ---
 
