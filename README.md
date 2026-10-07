@@ -5,7 +5,7 @@
 
 📧 gichimustephen.m@gmail.com
 
-[💼 LinkedIn](https://linkedin.com) 
+[💼 LinkedIn](https://linkedin.com)
 
 📍 Nairobi, Kenya (Available for Immediate On-Site Placement)
 
