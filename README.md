@@ -105,8 +105,6 @@ To ensure customer care operations surpass standard service level agreements (SL
 
 ### 📞 Let's Connect
 
-<div style="background-color: #0A192F; padding: 25px; border-radius: 8px; border: 1px solid #172A45; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  <p style="color: #64FFDA; margin-top: 0; margin-bottom: 8px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; font-size: 13px;">Next Steps</p>
   <h4 style="color: #CCD6F6; margin-top: 0; margin-bottom: 18px; font-size: 20px; font-weight: 600;">Available for Immediate Placement & Project Onboarding</h4>
   
   <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; margin-bottom: 5px;">
