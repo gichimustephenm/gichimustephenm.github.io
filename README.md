@@ -5,7 +5,7 @@
 
 📧 [mwangistephen.g@gmail.com](mwangistephen.g@gmail.com)
 
-[💼 LinkedIn](https://linkedin.com)
+[💼 LinkedIn](www.linkedin.com/in/stephengichimu)
 
 📍 Nairobi, Kenya (Available for Immediate On-Site Placement)
 
