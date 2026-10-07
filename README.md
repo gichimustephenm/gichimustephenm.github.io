@@ -3,7 +3,7 @@
 
 [📥 Download CV](./StephenMwangiGCV.pdf)
 
-📧 gichimustephen.m@gmail.com
+📧 [mwangistephen.g@gmail.com](mwangistephen.g@gmail.com)
 
 [💼 LinkedIn](https://linkedin.com)
 
@@ -103,38 +103,15 @@ To ensure customer care operations surpass standard service level agreements (SL
   * *Execution:* Deploying predictive troubleshooting protocols and logging deep, structured engineering bug notes within **Jira** before a user asks for an update.
   * *Impact:* Transforms standard service transactions into premium, relationship-driven brand loyalty loops.
 
+
 ### 📞 Let's Connect
 
-  <h4 style="color: #CCD6F6; margin-top: 0; margin-bottom: 18px; font-size: 20px; font-weight: 600;">Available for Immediate Placement & Project Onboarding</h4>
-  
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; margin-bottom: 5px;">
-    <tr style="border: none;">
-      <td style="padding: 6px 12px 6px 0; border: none; vertical-align: middle;">
-        <span style="font-size: 20px;">💬</span>
-      </td>
-      <td style="padding: 6px 0; border: none; vertical-align: middle;">
-        <a href="https://wa.me" target="_blank" style="color: #64FFDA; text-decoration: none; font-weight: 600; font-size: 15px;">WhatsApp Chat</a>
-        <span style="color: #8892B0; font-size: 15px;"> &bull; 0721669186</span>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="padding: 6px 12px 6px 0; border: none; vertical-align: middle;">
-        <span style="font-size: 20px;">✉️</span>
-      </td>
-      <td style="padding: 6px 0; border: none; vertical-align: middle;">
-        <a href="mailto:mwangistephen.g@gmail.com" style="color: #F8F8F2; text-decoration: none; font-weight: 600; font-size: 15px;">mwangistephen.g@gmail.com</a>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="padding: 6px 12px 6px 0; border: none; vertical-align: middle;">
-        <span style="font-size: 20px;">🌐</span>
-      </td>
-      <td style="padding: 6px 0; border: none; vertical-align: middle;">
-        <a href="https://linkedin.com" target="_blank" style="color: #0077B5; text-decoration: none; font-weight: 600; font-size: 15px;">Official LinkedIn Profile</a>
-      </td>
-    </tr>
-  </table>
+<div style="background-color: #0F1E36; padding: 15px 20px; border-radius: 6px; border: 1px solid #1E2D4A; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #FFFFFF; text-align: center; font-size: 14px; font-weight: 500;">
+  <span>💬 WhatsApp: <a href="https://wa.me" target="_blank" style="color: #FFFFFF; text-decoration: underline; font-weight: 600;">0721669186</a></span>
+  <span style="color: #A0AEC0; margin: 0 15px;">|</span>
+  <span>✉️ Email: <a href="mailto:mwangistephen.g@gmail.com" style="color: #FFFFFF; text-decoration: underline; font-weight: 600;">mwangistephen.g@gmail.com</a></span>
+  <span style="color: #A0AEC0; margin: 0 15px;">|</span>
+  <span>💼 LinkedIn: <a href="https://linkedin.com" target="_blank" style="color: #FFFFFF; text-decoration: underline; font-weight: 600;">Official Profile</a></span>
 </div>
 
-
-
+</div>
