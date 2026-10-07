@@ -113,5 +113,3 @@ To ensure customer care operations surpass standard service level agreements (SL
   <span style="color: #A0AEC0; margin: 0 15px;">|</span>
   <span>💼 LinkedIn: <a href="https://linkedin.com" target="_blank" style="color: #FFFFFF; text-decoration: underline; font-weight: 600;">Official Profile</a></span>
 </div>
-
-</div>
